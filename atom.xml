@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-14T11:00:13.719Z</updated>
+  <updated>2016-01-04T11:35:26.999Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[小白]]></title>
+    <link href="http://yoursite.com/2016/01/04/%E5%B0%8F%E7%99%BD/"/>
+    <id>http://yoursite.com/2016/01/04/小白/</id>
+    <published>2016-01-04T11:31:05.000Z</published>
+    <updated>2016-01-04T11:35:26.999Z</updated>
+    <content type="html"><![CDATA[<p>小白我喜欢你。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>小白我喜欢你。</p>
+]]>
+    </summary>
+    
+      <category term="我爱的人" scheme="http://yoursite.com/tags/%E6%88%91%E7%88%B1%E7%9A%84%E4%BA%BA/"/>
+    
+      <category term="杂谈" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[小王子与狐狸]]></title>
